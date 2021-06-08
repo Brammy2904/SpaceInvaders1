@@ -182,7 +182,7 @@ function raken(img, enemy) {
 function createBonus() {
 	enemyBonus = document.createElement("img");
 	enemyBonus.className = "alien"
-	enemyBonus.src = "image/bonus.png";
+	enemyBonus.src = "image/Bonus.png";
 	enemyBonus.style.width = 70 + "px";
 	enemyBonus.style.height = 70 + "px";
 	enemyBonus.style.position = "fixed";
