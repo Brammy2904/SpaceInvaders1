@@ -7,7 +7,7 @@ body {
 
   #char{
 	position:absolute;
-	background-image: url("image/Char.png");
+	background-image: url("image/char.png");
 	background-size:cover;
 	height: 70px;
 	width: 80px;
