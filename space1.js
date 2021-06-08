@@ -90,7 +90,7 @@ function addPlayerLaser() {
 	shotplace = 80;
 	img = document.createElement('img');
 	img.className = "shot"
-	img.src = 'image/shot.png';
+	img.src = 'image/Shot.png';
 	img.style.position = "fixed";
 	img.style.width = 40 + "px";
 	img.style.height = 40 + "px";
